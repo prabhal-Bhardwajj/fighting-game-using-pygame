@@ -1,7 +1,6 @@
 '''
 This is a simple fighting game like Engine created using the Pygame library. 
 It simulates a one-on-one battle between two players, each controlled by different keyboard inputs.
-Below are detailed comments explaining each part of the code to help beginners understand how it works.
 
 '''
 
